@@ -1,0 +1,13 @@
+id: sparkles-hello-world
+name: Hello World
+version: "0.0.1"
+description: A simple Hello World app
+icon: https://cdn-icons-png.flaticon.com/512/1077/1077012.png
+gallery:
+  - https://raw.githubusercontent.com/getumbrel/umbrel-apps/master/db-browser/1.jpg
+category: developer
+port: 8080
+path: /
+architecture:
+  - amd64
+  - arm64
